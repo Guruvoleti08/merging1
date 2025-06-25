@@ -1,0 +1,13 @@
+<html>
+  <head>
+    <title>Hi Hello</title>
+  </head>
+  <body>
+    <h1>Welcome to Amazing Seven</h1>
+    <p>
+      <a href="https://www.youtube.com/@AmazingSeven7/">Subscribe the Channel</a> 
+    </p>
+  </body>
+</html>
+
+
